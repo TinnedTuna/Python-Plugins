@@ -1,4 +1,4 @@
-from Plugin import Plugin
+from pack.Plugin import Plugin
 
 class ExtendingPlugin(Plugin):
   pass
